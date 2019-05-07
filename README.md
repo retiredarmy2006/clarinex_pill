@@ -1,2 +1,2 @@
-# clarinex_pill
+5# clarinex_pill
 Medicine
